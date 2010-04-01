@@ -1,0 +1,193 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+	<title>jQuery.animate() hacking demo</title>
+	
+  <script src="jquery.js" type="text/javascript" charset="utf-8"></script>  
+  <script type="text/javascript" charset="utf-8">
+      $(document).ready(function(){
+
+        // Scene settings.
+        var options = {
+          images: [
+            'bacon1.png',
+            'bacon2.png',
+            'bacon3.png'
+          ],
+          particles: 30,
+          imageWidth: 0.233 * 2,
+          imageHeight: 0.420 * 2
+        };
+
+        // Animation variables.
+        var vars = $.extend($('<div>')[0], {
+          cameraX: 3,
+          cameraY: 3,
+          cameraZ: 3,
+          
+          // More properties are added dynamically in init().
+
+          //// These are needed to make $(vars).animate(...) work.
+          customAnimate: true,
+          updated: true
+        });
+
+        var ctx;
+
+        // Hack the jQuery step function to allow animating object properties directly.
+        var $_fx_step_default = $.fx.step._default;
+        $.fx.step._default = function (fx) {
+          if (!fx.elem.customAnimate) return $_fx_step_default(fx);
+          fx.elem[fx.prop] = fx.now;
+          fx.elem.updated = true;
+        };
+        
+        // Move the camera to a new position (animated).
+        function moveCamera() {
+          var cx = Math.random() * 2 - 1,
+              cy = Math.random() * 2 - 1,
+              cz = Math.random() * 2 - 1,
+              cl = 2 / Math.sqrt(cx * cx + cy * cy + cz * cz);
+
+          $(vars).animate({ cameraX: cx * cl }, { duration: 2000, queue: false });
+          $(vars).animate({ cameraY: cy * cl }, { duration: 3000, queue: false });
+          $(vars).animate({ cameraZ: cz * cl }, { duration: 4000, queue: false });
+        }
+
+        // Move 10 pieces of bacon to a new position (animated).
+        var ani = 0;
+        function moveBacon() {
+          for (var i = 0; i < 10; ++i) {
+            var bacon = ani++ % options.particles;
+            var params = {};
+            params['bacon'+ bacon +'x'] = Math.random() * 2 - 1;
+            params['bacon'+ bacon +'y'] = Math.random() * 2 - 1;
+            params['bacon'+ bacon +'z'] = Math.random() * 2 - 1;
+
+            $(vars).animate(params, { duration: 500 + Math.random() * 1500, queue: false });
+          }
+        }
+
+        // Initialize the scene.
+        var init = function() {
+          ctx = $('#canvas')[0].getContext("2d");
+          ctx.translate(200, 150);
+          ctx.scale(150, 150);
+
+          // Load images.
+          var preloaded = 0;
+          $.each(options.images, function(i) {
+            options.images[i] = new Image();
+            options.images[i].onload = function () {
+              if (++preloaded == options.images.length) {
+                continueInit();
+              }
+            };
+            options.images[i].src = this;
+          });
+          
+          // Continue init() after images have preloaded.
+          function continueInit() {
+            // Spawn particles.
+            for (var i = 0; i < options.particles; ++i) {
+              vars['bacon'+ i +'x'] = Math.random() * 2 - 1;
+              vars['bacon'+ i +'y'] = Math.random() * 2 - 1;
+              vars['bacon'+ i +'z'] = Math.random() * 2 - 1;
+            }
+          
+            // Begin drawing loop.
+            setInterval(function(){
+              if (!vars.updated) return;
+              vars.updated = false;
+
+              draw(options);
+            }, 30);
+          
+            moveCamera();
+            setTimeout(moveBacon, 2000);
+          }
+        };
+        
+        // Draw a single frame.
+        var draw = function(options) {
+          
+          ctx.clearRect(-1.333, -1, 2.666, 2);
+          
+          // Calculate euler angles.
+          var ry = Math.atan2(vars.cameraX, vars.cameraZ),
+              rx = Math.atan2(vars.cameraY, Math.sqrt(vars.cameraZ * vars.cameraZ + vars.cameraX * vars.cameraX)),
+              cy = Math.cos(ry),
+              sy = Math.sin(ry),
+              cx = Math.cos(rx),
+              sx = Math.sin(rx);
+          
+          var transformed = [];
+
+          // Transform particles
+          for (var i = 0; i < options.particles; ++i) {
+            var x1 = vars['bacon'+ i +'x'] + vars.cameraX,
+                y1 = vars['bacon'+ i +'y'] + vars.cameraY,
+                z1 = vars['bacon'+ i +'z'] + vars.cameraZ,
+               
+                x2 = x1*cy - z1*sy,
+                y2 = y1,
+                z2 = x1*sy + z1*cy,
+               
+                x3 = x2,
+                y3 = y2*cx - z2*sx,
+                z3 = y2*sx + z2*cx;
+            
+            if (z3 > .01) {
+              z3 = 1 / z3;
+              
+              var x = x3 * z3,
+                  y = y3 * z3,
+                  w = options.imageWidth * z3,
+                  h = options.imageHeight * z3;
+             
+              transformed.push([z3, x - w/2, y - h/2, w, h, i]);
+            }
+          }
+          
+          // Depth sort particles
+          transformed.sort(function (a, b) {
+            return a[0] < b[0] ? -1 : (a[0] > b[0]) ? 1 : 0;
+          });
+          
+          // Render particles as thick, juicy strips of bacon.
+          for (i in transformed) {
+            ctx.drawImage(options.images[transformed[i][5] % 3], transformed[i][1], transformed[i][2], transformed[i][3], transformed[i][4]);
+          }
+          
+        };
+
+        init();
+        
+        // Link up the buttons.
+        $('#button1').click(moveCamera);
+        $('#button2').click(moveBacon);
+        
+      });
+    </script>
+    <style type="text/css" media="screen">
+      #canvas {
+        width: 400px;
+        height: 300px;
+        border: 1px solid #ccc;        
+      }
+    </style>
+  </head>
+  <body>
+    <h1>$.animate() hacking demo – Cloud of Bacon</h1>
+    <canvas id="canvas" width="400" height="300"></canvas>
+    <div>
+    <button id="button1">Move camera</button>
+    <button id="button2">Move bacon</button>
+    </div>
+    <p>For background, see <a href="http://acko.net/blog/abusing-jquery-animate-for-fun-and-profit-and-bacon">this blog post</a>.</p>
+  </body>
+</html>

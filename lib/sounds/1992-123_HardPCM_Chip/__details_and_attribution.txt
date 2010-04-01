@@ -1,0 +1,1976 @@
+
+=================== FREESOUND ATTRIBUTION FORM =======================
+
+This form below lists all the samples in this pack with their descriptions and tags.
+You can use this form to attribute samples to users when you use them.
+
+=========================== CUT HERE =================================
+
+File:
+	Name: "Chip001.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31841
+	Date of upload: 2007-03-07 19:41:49
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an beep from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades beep beeps bip bips chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes nice-beep simple triangle triangle-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip002.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31842
+	Date of upload: 2007-03-07 19:41:54
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an short bomb explosion from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades bomb chip chiptune circuit circuits cpu cpu-chip damage destroy destruction digital effect electro electronic explode explosion fade-out fx game game-console hardpcm hi-fi high-fi nes soundeffect video-game 
+======================================================================
+
+File:
+	Name: "Chip003.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31843
+	Date of upload: 2007-03-07 19:41:57
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an bomb explosion from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades bomb chip chiptune circuit circuits cpu cpu-chip damage destroy destruction digital effect electro electronic explode explosion fx game game-console hardpcm hi-fi high-fi nes soundeffect video-game 
+======================================================================
+
+File:
+	Name: "Chip004.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31844
+	Date of upload: 2007-03-07 19:42:02
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high high-fi nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip005.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31845
+	Date of upload: 2007-03-07 19:42:07
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an closed-hat from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits closed-hat cpu cpu-chip digital electro electronic game game-console hardpcm hat hi-fi high-fi nes noise noise-channel video-game white-noise 
+======================================================================
+
+File:
+	Name: "Chip006.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31846
+	Date of upload: 2007-03-07 19:42:12
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an jump from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic fade-out game game-console hardpcm hi-fi high high-fi jump nes square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip007.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31847
+	Date of upload: 2007-03-07 19:42:19
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi low nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip008.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31848
+	Date of upload: 2007-03-07 19:42:25
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi low nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip009.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31849
+	Date of upload: 2007-03-07 19:42:33
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes noise noise-channel smb video-game white-noise 
+======================================================================
+
+File:
+	Name: "Chip010.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31850
+	Date of upload: 2007-03-07 19:42:40
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an pause beeps from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades beep bip chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes pause pause-beep pause-beeps pause-bip pause-bips pause-game square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip011.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31851
+	Date of upload: 2007-03-07 19:43:39
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip012.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31852
+	Date of upload: 2007-03-07 19:43:46
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes noise noise-channel video-game white-noise 
+======================================================================
+
+File:
+	Name: "Chip013.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31853
+	Date of upload: 2007-03-07 19:43:50
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades beep bip chip chiptune circuit circuits cpu cpu-chip digital electro electronic fade-out game game-console hardpcm hi-fi high high-fi nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip014.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31854
+	Date of upload: 2007-03-07 19:43:52
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an high-hat from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hat hi-fi high high-fi high-hat nes noise noise-channel video-game white-noise 
+======================================================================
+
+File:
+	Name: "Chip015.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31855
+	Date of upload: 2007-03-07 19:45:06
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an laser-gun from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital duty-cycle effect electro electronic fx game game-console gun hardpcm hi-fi high-fi impulsions laser laser-gun nes sci-fi ship space square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip016.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31856
+	Date of upload: 2007-03-07 19:45:15
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an bomb explosion from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades bomb chip chiptune circuit circuits cpu cpu-chip damage destroy destruction digital effect electro electronic explode explosion fx game game-console hardpcm hi-fi high-fi nes soundeffect video-game 
+======================================================================
+
+File:
+	Name: "Chip020.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31857
+	Date of upload: 2007-03-07 19:45:32
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an bomb explosion from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades bomb chip chiptune circuit circuits cpu cpu-chip damage destroy destruction digital effect electro electronic explode explosion fx game game-console hardpcm hi-fi high-fi nes ship soundeffect video-game war 
+======================================================================
+
+File:
+	Name: "Chip021.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31858
+	Date of upload: 2007-03-07 19:45:36
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an bip from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades beep bip chip chiptune circuit circuits cpu cpu-chip digital duty-cycle electro electronic game game-console hardpcm hi-fi high high-bip high-fi impulsions nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip022.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31859
+	Date of upload: 2007-03-07 19:45:51
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi low nes noise video-game white-noise 
+======================================================================
+
+File:
+	Name: "Chip023.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31860
+	Date of upload: 2007-03-07 19:46:07
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital duty-cycle electro electronic game game-console hardpcm hi-fi high high-fi impulsions nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip024.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31861
+	Date of upload: 2007-03-07 19:47:02
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an long bip from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades beep bip chip chiptune circuit circuits cpu cpu-chip digital electro electronic fade-out game game-console hardpcm hi-fi high-fi nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip025.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31862
+	Date of upload: 2007-03-07 19:47:07
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an high-bip from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades beep bip chip chiptune circuit circuits cpu cpu-chip digital electro electronic fade-out game game-console hardpcm hi-fi high high-bip high-fi nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip026.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31863
+	Date of upload: 2007-03-07 19:47:10
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an laser-gun from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital duty-cycle effect electro electronic fx game game-console gun hardpcm hi-fi high-fi impulsions laser laser-gun nes sci-fi ship space square square-channel video-game war 
+======================================================================
+
+File:
+	Name: "Chip027.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31864
+	Date of upload: 2007-03-07 19:47:14
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic fade-out game game-console hardpcm hi-fi high-fi nes noise noise-channel video-game white-noise 
+======================================================================
+
+File:
+	Name: "Chip028.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31865
+	Date of upload: 2007-03-07 19:48:43
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes noise noise-channel video-game white-noise 
+======================================================================
+
+File:
+	Name: "Chip029.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31866
+	Date of upload: 2007-03-07 19:48:49
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes noise noise-channel video-game white-noise 
+======================================================================
+
+File:
+	Name: "Chip030.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31867
+	Date of upload: 2007-03-07 19:48:53
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades beep beeps bip bips chip chiptune circuit circuits cpu cpu-chip digital electro electronic fade-out game game-console hardpcm hi-fi high-fi nes video-game 
+======================================================================
+
+File:
+	Name: "Chip031.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31868
+	Date of upload: 2007-03-07 19:48:58
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic fade-in game game-console hardpcm hi-fi high-fi nes video-game 
+======================================================================
+
+File:
+	Name: "Chip032.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31869
+	Date of upload: 2007-03-07 19:49:02
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic fade-out game game-console hardpcm hi-fi high-fi nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip033.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31870
+	Date of upload: 2007-03-07 19:51:05
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic fade-out game game-console hardpcm hi-fi high-fi nes video-game 
+======================================================================
+
+File:
+	Name: "Chip034.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31871
+	Date of upload: 2007-03-07 19:51:12
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic fade-out game game-console hardpcm hi-fi high-fi nes noise video-game white-noise 
+======================================================================
+
+File:
+	Name: "Chip035.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31872
+	Date of upload: 2007-03-07 19:51:17
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an beep from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades beep bip chip chiptune circuit circuits cpu cpu-chip digital duty-cycle electro electronic game game-console hardpcm hi-fi high-fi impulsions nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip036.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31873
+	Date of upload: 2007-03-07 19:51:21
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an laser-gun from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital duty-cycle effect electro electronic fx game game-console gun hardpcm hi-fi high-fi impulsions laser laser-gun nes sci-fi ship space square square-channel video-game war 
+======================================================================
+
+File:
+	Name: "Chip037.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31874
+	Date of upload: 2007-03-07 19:51:56
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an long bomb explosion from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades bomb chip chiptune circuit circuits cpu cpu-chip damage destroy destruction digital effect electro electronic explode explosion fade-out fx game game-console hardpcm hi-fi high-fi nes noise noise-channel ship soundeffect square square-channel video-game war 
+======================================================================
+
+File:
+	Name: "Chip038.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31875
+	Date of upload: 2007-03-07 19:52:06
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic fade-out game game-console hardpcm hi-fi high-fi nes noise video-game white-noise 
+======================================================================
+
+File:
+	Name: "Chip039.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31876
+	Date of upload: 2007-03-07 19:52:14
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an jump from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu acid analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic fade-out game game-console hardpcm hi-fi high-fi jump nes square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip040.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31877
+	Date of upload: 2007-03-07 19:52:18
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic fade-out game game-console hardpcm hi-fi high-fi nes video-game 
+======================================================================
+
+File:
+	Name: "Chip041.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31878
+	Date of upload: 2007-03-07 19:52:25
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital duty-cycle electro electronic game game-console impulsions nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip042.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31879
+	Date of upload: 2007-03-07 19:58:26
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an car spinning from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades car chip chiptune circuit circuits cpu cpu-chip digital duty-cycle electro electronic game game-console hardpcm hi-fi high-fi impulsions nes spin square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip043.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31880
+	Date of upload: 2007-03-07 19:58:36
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades boom chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi kick low nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip044.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31881
+	Date of upload: 2007-03-07 19:58:43
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes video-game 
+======================================================================
+
+File:
+	Name: "Chip045.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31882
+	Date of upload: 2007-03-07 20:00:40
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip046.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=31883
+	Date of upload: 2007-03-07 20:00:45
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip017.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=32944
+	Date of upload: 2007-04-01 15:39:47
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes smb video-game 
+======================================================================
+
+File:
+	Name: "Chip018.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=32945
+	Date of upload: 2007-04-01 15:39:52
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes smb video-game 
+======================================================================
+
+File:
+	Name: "Chip019.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=32946
+	Date of upload: 2007-04-01 15:39:53
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an beep from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades beep beeps bip bips chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes video-game 
+======================================================================
+
+File:
+	Name: "Chip047.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=32947
+	Date of upload: 2007-04-01 15:39:55
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic fade-out game game-console hardpcm hi-fi high-fi nes video-game 
+======================================================================
+
+File:
+	Name: "Chip048.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=32948
+	Date of upload: 2007-04-01 15:39:58
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an beep from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades beep beeps bip bips chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes video-game 
+======================================================================
+
+File:
+	Name: "Chip049.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=32949
+	Date of upload: 2007-04-01 15:40:00
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an beep from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades beep beeps bip bips chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi low nes triangle-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip050.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=32950
+	Date of upload: 2007-04-01 15:40:02
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades bass beep beeps bip bips chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi low nes square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip051.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=32951
+	Date of upload: 2007-04-01 15:40:03
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is pause beeps from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades beep beeps bip bips chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes pause pause-beep pause-beeps pause-bip pause-bips pause-game triangle triangle-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip052.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=32952
+	Date of upload: 2007-04-01 15:40:06
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an beep from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades beep beeps bip bips chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi loz nes video-game 
+======================================================================
+
+File:
+	Name: "Chip053.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=32953
+	Date of upload: 2007-04-01 15:40:16
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an laser gun from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic fade-out fx game game-console gun hardpcm hi-fi high-fi laser laser-gun nes sci-fi ship space video-game war 
+======================================================================
+
+File:
+	Name: "Chip054.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=32954
+	Date of upload: 2007-04-01 15:40:19
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an laser gun from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital effect electro electronic fade-out fx game game-console gun hardpcm hi-fi high-fi laser laser-gun nes sci-fi ship space video-game war 
+======================================================================
+
+File:
+	Name: "Chip055.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=32955
+	Date of upload: 2007-04-01 15:40:23
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an laser gun from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital effect electro electronic fx game game-console gun hardpcm hi-fi high-fi laser laser-gun nes sci-fi ship space video-game war 
+======================================================================
+
+File:
+	Name: "Chip056.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=32956
+	Date of upload: 2007-04-01 15:40:26
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an bass from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades bass chip chiptune circuit circuits cpu cpu-chip digital duty-cycle electro electronic fade-out game game-console hardpcm hi-fi high-fi impulsions low nes square square-bass square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip057.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33101
+	Date of upload: 2007-04-03 12:39:07
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi loz nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip058.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33102
+	Date of upload: 2007-04-03 12:39:11
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic fade-out game game-console hardpcm hi-fi high-fi loz nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip059.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33103
+	Date of upload: 2007-04-03 12:39:13
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic fade-out game game-console hardpcm hi-fi high-fi loz nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip060.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33104
+	Date of upload: 2007-04-03 12:39:17
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades beep beeps bip bips chip chiptune circuit circuits cpu cpu-chip digital electro electronic fade-out game game-console hardpcm hi-fi high-fi nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip061.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33105
+	Date of upload: 2007-04-03 12:39:23
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an beep from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades beep beeps bip bips chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi loz nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip062.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33106
+	Date of upload: 2007-04-03 12:39:28
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is foot-steps from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic foot foot-step foot-steps foots game game-console hardpcm hi-fi high-fi loz nes noise noise-channel square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip063.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33107
+	Date of upload: 2007-04-03 12:39:32
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an beep from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades beep beeps bip bips chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi loop loz nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip064.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33108
+	Date of upload: 2007-04-03 12:39:34
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is beeps from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades beep beeps bip bips chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi loz nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip065.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33109
+	Date of upload: 2007-04-03 12:39:38
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip066.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33110
+	Date of upload: 2007-04-03 12:39:40
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an beep from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades beep beeps bip bips chip chiptune circuit circuits cpu cpu-chip digital electro electronic fade-out game game-console hardpcm hi-fi high-fi loz nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip067.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33111
+	Date of upload: 2007-04-03 12:39:41
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip068.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33112
+	Date of upload: 2007-04-03 12:39:44
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an beep from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades beep beeps bip bips chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi loop loz nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip069.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33113
+	Date of upload: 2007-04-03 12:39:48
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an alarm from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu alarm alert analog arcade arcades attack beep beeps bip bips chip chiptune circuit circuits cpu cpu-chip damage danger digital electro electronic game game-console hardpcm hi-fi high-fi loz nes square square-channel video-game warning 
+======================================================================
+
+File:
+	Name: "Chip070.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33114
+	Date of upload: 2007-04-03 12:39:52
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an beep-loop from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades beep beeps bip bips chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi loop loz nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip071.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33115
+	Date of upload: 2007-04-03 12:39:56
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades beep beeps bip bips chip chiptune circuit circuits cpu cpu-chip digital electro electronic fade-out game game-console hardpcm hi-fi high-fi loz nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip072.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33116
+	Date of upload: 2007-04-03 12:39:59
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an sword from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi loz nes noise noise-channel sword video-game 
+======================================================================
+
+File:
+	Name: "Chip073.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33213
+	Date of upload: 2007-04-03 12:49:24
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an alarm from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu alarm alert analog arcade arcades beep beeps bip bips chip chiptune circuit circuits cpu cpu-chip damage danger digital electro electronic game game-console hardpcm hi-fi high-fi low loz nes ship square square-channel video-game war warning 
+======================================================================
+
+File:
+	Name: "Chip074.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33214
+	Date of upload: 2007-04-03 12:49:28
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic fade-out game game-console hardpcm hi-fi high-fi low loz nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip075.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33215
+	Date of upload: 2007-04-03 12:49:32
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an bomb explosion from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades bomb bomb-explode bomb-explosion boom chip chiptune circuit circuits cpu cpu-chip damage destroy destruction digital effect electro electronic explode explosion fade-out fx game game-console hardpcm hi-fi high-fi nes noise noise-channel ship short soundeffect square square-channel video-game war 
+======================================================================
+
+File:
+	Name: "Chip076.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33216
+	Date of upload: 2007-04-03 12:49:34
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an beep from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades beep beeps bip bips chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip077.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33217
+	Date of upload: 2007-04-03 12:49:36
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits closed closed-hat cpu cpu-chip digital electro electronic game game-console hardpcm hat hi-fi high-fi nes noise noise-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip078.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33218
+	Date of upload: 2007-04-03 12:49:40
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an pause beeps from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades beep beeps bip bips chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes pause pause-beep pause-beeps pause-bip pause-bips pause-game square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip079.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33219
+	Date of upload: 2007-04-03 12:49:44
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip080.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33220
+	Date of upload: 2007-04-03 12:49:47
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip081.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33221
+	Date of upload: 2007-04-03 12:49:53
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip082.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33222
+	Date of upload: 2007-04-03 12:49:55
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic fade-out game game-console hardpcm hi-fi high-fi nes noise noise-channel splash video-game 
+======================================================================
+
+File:
+	Name: "Chip083.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33223
+	Date of upload: 2007-04-03 12:49:58
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an hi-hat from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic fade-out game game-console hardpcm hat hi-fi hi-hat high-fi nes noise noise-channel short video-game 
+======================================================================
+
+File:
+	Name: "Chip084.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33224
+	Date of upload: 2007-04-03 12:50:02
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip085.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33225
+	Date of upload: 2007-04-03 12:50:07
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes noise noise-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip086.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33226
+	Date of upload: 2007-04-03 12:50:09
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes noise noise-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip087.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33227
+	Date of upload: 2007-04-03 12:50:11
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital duty-cycle electro electronic fade-out game game-console hardpcm hi-fi high-fi impulsions nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip088.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33228
+	Date of upload: 2007-04-03 12:50:13
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital duty-cycle electro electronic fade-out game game-console hardpcm hi-fi high-fi impulsions nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip089.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33229
+	Date of upload: 2007-04-03 12:50:18
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is beeps from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades beep beeps bip bips chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high high-fi nes sci-fi space square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip090.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33230
+	Date of upload: 2007-04-03 12:50:20
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip092.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33231
+	Date of upload: 2007-04-03 12:50:24
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is beeps from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades beep beeps bip bips chip chiptune circuit circuits cpu cpu-chip digital dut-cycle electro electronic game game-console hardpcm hi-fi high high-fi impulsions nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip093.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33232
+	Date of upload: 2007-04-03 12:50:26
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an synth from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital duty-cycle electro electronic fade-in game game-console impulsions nes square square-channel synth synthesizer techno vibrato video-game 
+======================================================================
+
+File:
+	Name: "Chip094.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33233
+	Date of upload: 2007-04-03 12:50:28
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is beeps from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades beep beeps bip bips chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high high-fi nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip095.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33234
+	Date of upload: 2007-04-03 12:50:31
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes square square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip096.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33235
+	Date of upload: 2007-04-03 12:50:34
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an high-beep from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades beep beeps bip bips chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high high-beep high-fi high-pip high-tone nes triangle triangle-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip097.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33236
+	Date of upload: 2007-04-03 12:51:11
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital duty-cycle electro electronic game game-console hardpcm hi-fi high-fi impulsions nes square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip098.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33237
+	Date of upload: 2007-04-03 12:51:13
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an beep from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades beep beeps bip bips chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi low nes triangle-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip099.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33238
+	Date of upload: 2007-04-03 12:51:14
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an bomb explosion from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades bomb boom chip chiptune circuit circuits cpu cpu-chip damage destroy destruction digital effect electro electronic explosion fade-out fx game game-console hardpcm hi-fi high-fi nes noise noise-channel ship soundeffect square-channel video-game war 
+======================================================================
+
+File:
+	Name: "Chip100.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33239
+	Date of upload: 2007-04-03 12:51:16
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes noise noise-channel video-game white-noise 
+======================================================================
+
+File:
+	Name: "Chip102.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33240
+	Date of upload: 2007-04-03 12:51:19
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an laser gun from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital duty-cycle effect electro electronic fade-in fx game game-console gun hardpcm hi-fi high-fi impulsions laser laser-gun nes square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip091.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=33241
+	Date of upload: 2007-04-03 12:51:22
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes square-channel video-game 
+======================================================================
+
+File:
+	Name: "Chip101.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=34224
+	Date of upload: 2007-04-29 14:20:13
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an kick bass from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades bass chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi kick nes video-game 
+======================================================================
+
+File:
+	Name: "Chip103.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=34225
+	Date of upload: 2007-04-29 14:20:15
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an jump from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi jump nes video-game 
+======================================================================
+
+File:
+	Name: "Chip104.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=34226
+	Date of upload: 2007-04-29 14:20:16
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes video-game 
+======================================================================
+
+File:
+	Name: "Chip105.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=34227
+	Date of upload: 2007-04-29 14:20:18
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an laser gun from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console gun hardpcm hi-fi high-fi laser laser-gun nes sci-fi space video-game 
+======================================================================
+
+File:
+	Name: "Chip106.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=34228
+	Date of upload: 2007-04-29 14:20:19
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an beep from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades beep beeps bip bips chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes video-game 
+======================================================================
+
+File:
+	Name: "Chip112.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=34229
+	Date of upload: 2007-04-29 14:20:20
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an laser gun from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console gun hardpcm hi-fi high-fi laser laser-gun nes sci-fi space video-game 
+======================================================================
+
+File:
+	Name: "Chip114.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=34230
+	Date of upload: 2007-04-29 14:20:21
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is beeps from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades beep beeps bip bips chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes video-game 
+======================================================================
+
+File:
+	Name: "Chip115.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=34231
+	Date of upload: 2007-04-29 14:20:23
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is beeps from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades beep beeps bip bips chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes video-game 
+======================================================================
+
+File:
+	Name: "Chip116.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=34232
+	Date of upload: 2007-04-29 14:20:24
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an pause beep from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades beep beeps bip bips chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes pause pause-beep pause-beeps pause-bip pause-bips pause-game video-game 
+======================================================================
+
+File:
+	Name: "Chip118.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=34233
+	Date of upload: 2007-04-29 14:23:11
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an kick bass from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades bass chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi kick nes video-game 
+======================================================================
+
+File:
+	Name: "Chip120.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=34234
+	Date of upload: 2007-04-29 14:23:14
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is thunder sound fx from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic fx game game-console hardpcm hi-fi high-fi nes sound sound-fx thunder video-game 
+======================================================================
+
+File:
+	Name: "Chip121.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=34235
+	Date of upload: 2007-04-29 14:23:16
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes video-game 
+======================================================================
+
+File:
+	Name: "Chip122.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=34236
+	Date of upload: 2007-04-29 14:23:19
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is thunder sound fx from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic fx game game-console hardpcm hi-fi high-fi nes sound sound-fx thunder video-game 
+======================================================================
+
+File:
+	Name: "Chip123.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=34237
+	Date of upload: 2007-04-29 14:23:22
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an jump from an direct sound chip channel recording of an old NES game console.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi jump nes video-game 
+======================================================================
+
+File:
+	Name: "Chip124.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=34238
+	Date of upload: 2007-04-29 14:23:24
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console. Part of the Chip Pack.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes video-game 
+======================================================================
+
+File:
+	Name: "Chip125.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=34239
+	Date of upload: 2007-04-29 14:23:27
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an direct sound chip channel recording of an old NES game console. Part of the Chip Pack.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes video-game 
+======================================================================
+
+File:
+	Name: "Chip126.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=34240
+	Date of upload: 2007-04-29 14:23:29
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an pause beep from an direct sound chip channel recording of an old NES game console. Part of the Chip Pack.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades beep beeps bip bips chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi nes pause pause-beep pause-beeps pause-bip pause-bips pause-game video-game 
+======================================================================
+
+File:
+	Name: "Chip127.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=34242
+	Date of upload: 2007-04-29 14:23:38
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an thunder sound fx from an sound chip channel recording of an old NES game console. Part of the Chip Pack.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic fx game game-console hardpcm hi-fi high-fi nes sound sound-fx thunder video-game 
+======================================================================
+
+File:
+	Name: "Chip130.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=34243
+	Date of upload: 2007-04-29 14:23:40
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an jump from an direct sound chip channel recording of an old NES game console. Part of the Chip Pack.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi jump nes video-game 
+======================================================================
+
+File:
+	Name: "Chip131.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=34244
+	Date of upload: 2007-04-29 14:23:43
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is an jump from an direct sound chip channel recording of an old NES game console. Part of the Chip Pack.
+
+Tags:
+	2a03 2a03-cpu 6502 6502-cpu 8bit-cpu analog arcade arcades chip chiptune circuit circuits cpu cpu-chip digital electro electronic game game-console hardpcm hi-fi high-fi jump nes video-game 
+======================================================================
+
+File:
+	Name: "Chip132.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=35714
+	Date of upload: 2007-06-03 13:27:33
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is two simple tones mixed and distorted.
+
+Tags:
+	alarm analog beep beeps bip bips chip chip-tune chiptune circuit circuits clock electronic game hardpcm hi-fi high-fi light monitor processed screen simple tone tones 
+======================================================================
+
+File:
+	Name: "Chip133.wav"
+	Url: http://www.freesound.org/samplesViewSingle.php?id=35715
+	Date of upload: 2007-06-03 13:27:35
+	
+Designer / Creator / Uploader:
+	Name: "HardPCM"
+	Url: http://www.freesound.org/usersViewSingle.php?id=205819
+	
+Description:
+	By "HardPCM" : This is two simple tones mixed and distorted.
+
+Tags:
+	alarm analog beep beeps bip bips chip chip-tune chiptune circuit circuits clock electronic game hardpcm hi-fi high-fi light monitor processed screen simple tone tones 
+======================================================================
+
