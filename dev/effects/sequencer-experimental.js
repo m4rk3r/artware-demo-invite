@@ -106,7 +106,7 @@ $(function (){
         if(sequence.current(insturment,pos)) sounds[insturment].play();
     }
     pos = (pos + 1) % sequence.beats();
-    console.log(sequence.beats())
+    //console.log(sequence.beats())
     
   },(1000 / (BPM / 60 * ticks))) ;
     
