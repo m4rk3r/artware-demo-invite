@@ -11,7 +11,7 @@ $(function (){
     
     resizeTo(width,height);
     moveTo(width - width/div,height - height/div);
-    
+        
     // quake
     var duration = 300;
     var time = 0;

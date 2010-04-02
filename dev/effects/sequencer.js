@@ -9,10 +9,16 @@ var sounds = {
     'cymb': '/lib/sounds/tr606/LC2-606-HiHatCL-ACC.wav'
 }
 
-for(i in sounds) sounds[i] = path + sounds[i];
+
+for(i in sounds){
+    var audioElement = document.createElement('audio');
+    audioElement.setAttribute('src', path + sounds[i]);
+    audioElement.load();
+    sounds[i] = audioElement;
+}
 
 
-var BPM = 180;
+var BPM = 400;
 var ticks = 1;
 
 var sequence = {
@@ -21,13 +27,24 @@ var sequence = {
     'cymb': [1,0,1,0,1,0,1,0]
 }
 
+var volume = {
+    'bass' : 1,
+    'clap' : 0.5,
+    'cymb' : 0.4
+}
+
 
 $(function (){
   var pos = 0;
   var measure_len = sequence.bass.length;
+  
+  for(vol in volume){
+      sounds[vol].volume = volume[vol];
+  }
+  
   setInterval(function (){
     for(insturment in sequence){
-        if(sequence[insturment][pos]) $.sound.play(sounds[insturment]);
+        if(sequence[insturment][pos]) sounds[insturment].play();
     }
     pos = (pos + 1) % measure_len;
   },(1000 / (BPM / 60 * ticks))) ;
