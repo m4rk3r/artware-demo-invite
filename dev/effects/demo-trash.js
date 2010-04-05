@@ -9,6 +9,9 @@ return (Math.round(Math.random())-0.5);
 }
 
 $(function (){
+    // while(!ready){
+    //     // waiting
+    // }
 
     var tmppath = String(window.location).split('/')
     var path = tmppath.slice(0,tmppath.length -2).join('/')

@@ -16,14 +16,14 @@ $(function (){
     }else{
         toolbar_height = 0;
     }
-
+    var centx = screen.width/2 - width/2; 
+    var centy = screen.height/2 - height/2;
+    moveTo(centx,centy);
     
     // quake
     var duration = 1000;
     var time = 0;
-    var centx = screen.width/2 - width/2; 
-    var centy = screen.height/2 - height/2 ;
-    moveTo(centx,centy);
+
     
     function dt(){ return (new Date().getTime())/1000 }
     var last = (new Date().getTime())/1000;
@@ -42,6 +42,6 @@ $(function (){
         moveTo(window.screenX + randx * sign, window.screenY + randy * sign);
         time += 1
         if(time>duration) clearInterval(anim)
-    },50) // was 30
+    },80) // was 30
     
 })
