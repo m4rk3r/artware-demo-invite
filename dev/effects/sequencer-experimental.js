@@ -1,28 +1,26 @@
 
 var tmppath = String(window.location).split('/')
-var path = tmppath.slice(0,tmppath.length -2).join('/')+'/lib/sounds/'
+    var path = tmppath.slice(0,tmppath.length -2).join('/')+'/lib/sounds/'
 
-$(function (){
-    var width = 1024;
-    var height = 768;
+    $(function (){
+	    var width = 1024;
+	    var height = 768;
 
-    resizeTo(width,height)
-    var toolbar_height;
-    if(window.outerHeight > window.innerHeight){
-        toolbar_height = window.outerHeight - window.innerHeight;
-    }else{
-        toolbar_height = 0;
-    }
-    var centx = screen.width/2 - width/2; 
-    var centy = screen.height/2 - height/2;
-    moveTo(centx,centy);    
+	    resizeTo(width,height)
+	    var toolbar_height;
+	    if(window.outerHeight > window.innerHeight){
+		toolbar_height = window.outerHeight - window.innerHeight;
+	    }else{
+		toolbar_height = 0;
+	    }
+	    var centx = screen.width/2 - width/2; 
+	    var centy = screen.height/2 - height/2;
+	    moveTo(centx,centy);    
+    
 
-    run()
-    runSound();
-    ready = true;
-})
+	})
 
-var sounds = {
+    var sounds = {
     //'bass': 'tr606/LC2-606-Bassdrum.wav',
     //'clap': 'tr606/LC2-606-Snare-ACC.wav',
     // 'cymb': 'tr606/LC2-606-HiHatCL-ACC.wav',
@@ -59,10 +57,10 @@ var sounds = {
     'clap': 'dr110/LC1-DR110-Clap-AC.wav'
 }
 
-var num_of_sounds = function (){ var x = 0; for(i in sounds) x++; return x}
-num_of_sounds = num_of_sounds()
+    var num_of_sounds = function (){ var x = 0; for(i in sounds) x++; return x}
+	num_of_sounds = num_of_sounds()
 
-var preloaded = 0;
+    var preloaded = 0;
 for(i in sounds){
     var audioElement = document.createElement('audio');
     audioElement.setAttribute('src', path + sounds[i]);
@@ -80,237 +78,101 @@ for(i in sounds){
     //         }
     //     }
     //  },false);     
-     audioElement.load();
-     sounds[i] = audioElement;
+    audioElement.load();
+    sounds[i] = audioElement;
 }
 
 
 
 
-/* 
-    need to add a touch of preloading to assure smooth sailing ;)
-*/
+var BPM = 300;
+var ticks = 1;
 
- function runSound(){
-
-    var BPM = 300;
-    var ticks = 1;
-
-    var sequence = {
-        tracker:[
-        // {
-        //      'measures': 4,
-        //      'beats': 8,
-        //      'insturments':{
-        //          'kick3': [1,0,1,0,1,0,1,0],
-        //          'blip2': [0,1,1,0,1,0,1,0],
-        //          'blip3': [0,1,0,1,1,0,1,0],
-        //          'blip8': [1,1,0,1,1,0,1,0],
-        //      }
-        //  },
-        //  {
-        //          'measures': 4,
-        //          'beats': 8,
-        //          'insturments':{
-        //              'kick3': [1,0,1,0,1,0,1,0],
-        //              'blip2': [0,1,1,0,1,0,1,0],
-        //              'blip6': [0,1,0,1,1,0,1,0],
-        //              'blip5': [1,1,0,1,1,0,1,0],
-        //          }
-        //      },
-        //      {
-        //          'measures': 4,
-        //          'beats': 8,
-        //          'insturments':{
-        //              'kick3': [1,0,1,0,1,0,1,0],
-        //              'blip9': [0,1,1,0,1,0,1,0],
-        //              'blip': [0,1,0,1,1,0,1,0],
-        //              'blip7': [1,1,0,1,1,0,1,0],
-        //          }
-        //      },
-        //  {
-        //      'measures': 4,
-        //      'beats': 8,
-        //      'insturments':{
-        //          'kick2': [1,0,1,0,1,0,1,0],
-        //          'blip9': [0,1,1,0,1,0,1,0],
-        //          'blip' : [0,1,0,1,1,0,1,0],
-        //          'blip3': [1,1,0,1,1,0,1,0],
-        //      }
-        //  },
-         {
-             'measures': 4,
-             'beats': 8,
-             'insturments':{
-                 'kick2': [1,0,1,0,1,0,1,0],
-                 'clap' : [0,1,1,0,1,0,1,0],
-                 'grate': [0,1,0,1,1,0,1,0],
-                 'blip3': [1,1,0,1,1,0,1,0],
-             }
-         },
-         {
-             'measures': 4,
-             'beats': 8,
-             'insturments':{
-                 'kick2': [1,0,1,0,1,0,1,0],
-                 'blip9': [0,1,1,0,1,0,1,0],
-                 'blip': [0,1,0,1,1,0,1,0],
-                 'blip3': [1,1,0,1,1,0,1,0],
-             }
-         },
-         {
-             'measures': 4,
-             'beats': 8,
-             'insturments':{
-                 'kick2': [1,0,1,0,1,0,1,0],
-                 'clap' : [0,1,1,0,1,0,1,0],
-                 'grate2': [0,1,0,1,1,0,1,0],
-                 'blip3': [1,1,0,1,1,0,1,0],
-             }
-         },
-        //  {
-        //      'measures': 4,
-        //      'beats': 8,
-        //      'insturments':{
-        //          'kick': [1,0,1,0,1,0,1,0],
-        //          'grate2' : [0,1,1,0,1,0,1,0],
-        //          'blip8': [1,1,0,1,1,0,1,0],
-        //      }
-        //  },
-        //  {
-        //      'measures': 4,
-        //      'beats': 8,
-        //      'insturments':{
-        //          'kick': [1,0,1,0,1,0,1,0],
-        //          'clap' : [0,1,1,0,1,0,1,0],
-        //          'clap':  [1,1,0,1,1,0,1,0],
-        //      }
-        //  },
-        // {
-        //     'measures': 4,
-        //     'beats': 8,
-        //     'insturments':{
-        //         'kick': [1,0,1,0,1,0,1,0],
-        //         'grate2': [0,1,1,0,1,0,1,0],
-        //         'blip8': [1,1,0,1,1,0,1,0],
-        //     }
-        // },
-        // {
-        //     'measures': 4,
-        //     'beats': 8,
-        //     'insturments':{
-        //         'kick': [1,0,1,0,1,0,1,0],
-        //         'blip6': [0,1,1,0,1,0,1,0],
-        //         'snare': [1,1,0,1,1,0,1,0],
-        //     }
-        // },
-        // {
-        //     'measures': 4,
-        //     'beats': 8,
-        //     'insturments':{
-        //         'kick': [1,0,1,0,1,0,1,0],
-        //         'blip3': [0,1,1,0,1,0,1,0],
-        //         'grate2': [1,1,0,1,1,0,1,0],
-        //     }
-        // },
-        // {
-        //     'measures': 10,
-        //     'beats': 4,
-        //     'insturments':{
-        //         'bass': [1,1,0,1],
-        //         'clap': [0,0,1,0],
-        //         'cymb': [1,0,1,0],
-        //         'klip': [0,0,1,0],
-        //         'chip': [1,0,0,0]
-        //     },
-        // },
-        // {
-        //     'measures': 10,
-        //     'beats': 4,
-        //     'insturments':{
-        //         'bass': [1,1,0,1],
-        //         'clap': [0,0,1,0],
-        //         'cymb': [1,0,1,0],
-        //         'grate2':[0,0,1,0],
-        //         'chip': [0,0,1,0],
-        //     },
-        // },
-        // {
-        //     'measures': 10,
-        //     'beats': 4,
-        //     'insturments':{
-        //         'bass': [1,1,0,1],
-        //         'clap': [0,0,1,0],
-        //         'cymb': [1,0,1,0],
-        //         'klip': [0,0,1,0],
-        //         'chip': [1,0,0,0]
-        //     },
-        // },
-        // {
-        //     'measures': 10,
-        //     'beats': 4,
-        //     'insturments':{
-        //         'bass': [1,1,0,1],
-        //         'clap': [0,0,1,0],
-        //         'cymb': [1,0,1,0],
-        //         'grate2':[0,0,1,0],
-        //         'chip': [0,0,1,0],
-        //     },
-        // }
-        ],
-
-        i : 0,
-        count : 1,
-        measures : function (){ return this.tracker[this.i].measures},
-        tick : function (){
-            if(this.count > this.measures()) this.advance();
-            this.count += 1;
-        },
-        advance : function (){
-            this.count = 1;
-            this.i = (this.i+1) % this.tracker.length;
-        },
-        current : function (insturment,pos){
-            return this.tracker[this.i].insturments[insturment][pos];
-        },
-        insturments : function (){
-            return this.tracker[this.i].insturments;
-        },
-        beats : function (){
-            return this.tracker[this.i].beats;
-        }
+var sequence = {
+    tracker:[
+{
+    'measures': 4,
+    'beats': 8,
+    'insturments':{
+	'kick2': [1,0,1,0,1,0,1,0],
+	'clap' : [0,1,1,0,1,0,1,0],
+	'grate': [0,1,0,1,1,0,1,0],
+	'blip3': [1,1,0,1,1,0,1,0],
     }
+},
+{
+    'measures': 4,
+    'beats': 8,
+    'insturments':{
+	'kick2': [1,0,1,0,1,0,1,0],
+	'blip9': [0,1,1,0,1,0,1,0],
+	'blip': [0,1,0,1,1,0,1,0],
+	'blip3': [1,1,0,1,1,0,1,0],
+    }
+},
+{
+    'measures': 4,
+    'beats': 8,
+    'insturments':{
+	'kick2': [1,0,1,0,1,0,1,0],
+	'clap' : [0,1,1,0,1,0,1,0],
+	'grate2': [0,1,0,1,1,0,1,0],
+	'blip3': [1,1,0,1,1,0,1,0],
+    }
+},
+	     ],
+
+    i : 0,
+    count : 1,
+    measures : function (){ return this.tracker[this.i].measures},
+    tick : function (){
+        if(this.count > this.measures()) this.advance();
+        this.count += 1;
+    },
+    advance : function (){
+        this.count = 1;
+        this.i = (this.i+1) % this.tracker.length;
+    },
+    current : function (insturment,pos){
+        return this.tracker[this.i].insturments[insturment][pos];
+    },
+    insturments : function (){
+        return this.tracker[this.i].insturments;
+    },
+    beats : function (){
+        return this.tracker[this.i].beats;
+    }
+}
 
     var volume = {
-        //'bass' : 1,
-        'clap' : 1,
-        //'cymb' : 0.4,
-        'blip' : 0.3,
-        //'klip' : 0.3,
-        'grate2' : 0.8,
-        'grate' : 0.8,
+	//'bass' : 1,
+	'clap' : 1,
+	//'cymb' : 0.4,
+	'blip' : 0.3,
+	//'klip' : 0.3,
+	'grate2' : 0.8,
+	'grate' : 0.8,
     }
 
 
-    //$(function (){
-      var pos = 0;
-     //var measure_len = sequence.length('clap');
-      var measure = 0;
-      var count = 0;
+	$(function (){
+		var pos = 0;
+		//var measure_len = sequence.length('clap');
+		var measure = 0;
+		var count = 0;
   
-      for(vol in volume){
-          sounds[vol].volume = volume[vol];
-      }
+		for(vol in volume){
+		    sounds[vol].volume = volume[vol];
+		}
   
-      setInterval(function (){
-        if(pos==0) sequence.tick();  
-        for(insturment in sequence.insturments()){
-            if(sequence.current(insturment,pos)) sounds[insturment].play();
-        }
-        pos = (pos + 1) % sequence.beats();
-        //console.log(sequence.beats())
+		setInterval(function (){
+			if(pos==0) sequence.tick();  
+			for(insturment in sequence.insturments()){
+			    if(sequence.current(insturment,pos)) sounds[insturment].play();
+			}
+			pos = (pos + 1) % sequence.beats();
+			//console.log(sequence.beats())
     
-      },(1000 / (BPM / 60 * ticks)));
+		    },(1000 / (BPM / 60 * ticks)));
     
-   //})
-}
+	    })
