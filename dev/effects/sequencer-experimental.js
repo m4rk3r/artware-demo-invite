@@ -18,43 +18,15 @@ $(function (){
     var centy = screen.height/2 - height/2 - scroll_height/2;
     moveTo(centx,centy);    
     
-
 })
 
 var sounds = {
-    //'bass': 'tr606/LC2-606-Bassdrum.wav',
-    //'clap': 'tr606/LC2-606-Snare-ACC.wav',
-    // 'cymb': 'tr606/LC2-606-HiHatCL-ACC.wav',
-    // 'blip': '33230_HardPCM_Chip090.wav',
-    // 'klip': 'game/34228_HardPCM_Chip106.wav',
-
-    // 'chip': 'game/32951_HardPCM_Chip051.wav',
-    // 'chip2':'game/32952_HardPCM_Chip052.wav',
-
     'grate': 'game/35714_HardPCM_Chip132.wav',
     'grate2':'game/35715_HardPCM_Chip133.wav',
-    
     'blip' : 'g8b/Blip 001.wav',
-    //'blip2' :'g8b/Blip 002.wav',
     'blip3' :'g8b/Blip 003.wav',
-    //'blip4' :'g8b/Blip 004.wav',
-    //'blip5' :'g8b/Blip 005.wav',
-    //'blip6' :'g8b/Blip 006.wav',
-    //'blip7' :'g8b/Blip 007.wav',
-    //'blip8' :'g8b/Blip 008.wav',
     'blip9' :'g8b/Blip 009.wav',
-    
-    //'kick' : 'g8b/Kick 002.wav',
     'kick2': 'g8b/Kick 003.wav',
-    //'kick3': 'g8b/Kick 006.wav',
-    
-    //'snare': 'g8b/Snare 002.wav',
-    //'snare2': 'g8b/Snare 005.wav',
-    
-    // 'tom' : 'tr606/LC2-606-HiTom-ACC.wav',
-    // 'tom2': 'tr606/LC2-606-HiTom.wav',
-    // 'tom3': 'tr606/LC2-606-LoTom-ACC.wav',
-    
     'clap': 'dr110/LC1-DR110-Clap-AC.wav'
 }
 
@@ -79,15 +51,14 @@ for(i in sounds){
     //         }
     //     }
     //  },false);     
-     audioElement.load();
-     sounds[i] = audioElement;
+    audioElement.load();
+    sounds[i] = audioElement;
+
 }
 
 
 
 
-var BPM = 300;
-var ticks = 1;
 
 var sequence = {
     tracker:[
@@ -145,35 +116,38 @@ var sequence = {
     }
 }
 
+
+
+var pos = 0;
+var measure = 0;
+var count = 0;
+var BPM = 300;
+var ticks = 1;
+
 var volume = {
-    //'bass' : 1,
     'clap' : 1,
-    //'cymb' : 0.4,
     'blip' : 0.3,
-    //'klip' : 0.3,
     'grate2' : 0.8,
     'grate' : 0.8,
 }
 
 
 $(function (){
-      var pos = 0;
-     //var measure_len = sequence.length('clap');
-      var measure = 0;
-      var count = 0;
-  
-      for(vol in volume){
-          sounds[vol].volume = volume[vol];
-      }
-  
-      setInterval(function (){
-        if(pos==0) sequence.tick();  
-        for(insturment in sequence.insturments()){
-            if(sequence.current(insturment,pos)) sounds[insturment].play();
-        }
-        pos = (pos + 1) % sequence.beats();
-        //console.log(sequence.beats())
-    
-      },(1000 / (BPM / 60 * ticks)));
-    
-   })
+    var pos = 0;
+    var measure = 0;
+    var count = 0;
+
+    for(vol in volume){
+        sounds[vol].volume = volume[vol];
+    }
+
+    setInterval(function (){
+    	if(pos==0) sequence.tick();  
+    	for(insturment in sequence.insturments()){
+    	    if(sequence.current(insturment,pos)) sounds[insturment].play();
+    	}
+    	pos = (pos + 1) % sequence.beats();
+    },(1000 / (BPM / 60 * ticks)));
+
+})
+
