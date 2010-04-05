@@ -15,11 +15,11 @@ $(function (){
     }
     var centx = screen.width/2 - width/2; 
     var centy = screen.height/2 - height/2;
-    moveTo(centx,centy);
-    
-    // quake
-    var duration = 1000;
-    var time = 0;
+    moveTo(centx,centy);    
+
+    run()
+    runSound();
+    ready = true;
 })
 
 var sounds = {
@@ -67,30 +67,31 @@ for(i in sounds){
     var audioElement = document.createElement('audio');
     audioElement.setAttribute('src', path + sounds[i]);
     
-    audioElement.addEventListener("progress", function(e) { 
-        //console.log('# '+preloaded+' '+e.loaded+' of '+e.total)
-        if(e.loaded == e.total){
-            if (++preloaded == num_of_sounds) {
-            //console.log('LOADED')
-             ready = true;
-             run();
-            }else{
-              //console.log('loaded '+preloaded+' of '+num_of_sounds)
-            // console.log(e.loaded+' of '+e.total)
-            }
-        }
-     },false);
-     
+    // audioElement.addEventListener("progress", function(e) { 
+    //     //console.log('# '+preloaded+' '+e.loaded+' of '+e.total)
+    //     if(e.loaded == e.total){
+    //         if (++preloaded == num_of_sounds) {
+    //         //console.log('LOADED')
+    //          ready = true;
+    //          run();
+    //         }else{
+    //           //console.log('loaded '+preloaded+' of '+num_of_sounds)
+    //         // console.log(e.loaded+' of '+e.total)
+    //         }
+    //     }
+    //  },false);     
      audioElement.load();
      sounds[i] = audioElement;
 }
+
+
 
 
 /* 
     need to add a touch of preloading to assure smooth sailing ;)
 */
 
-function run(){
+ function runSound(){
 
     var BPM = 300;
     var ticks = 1;
@@ -291,7 +292,7 @@ function run(){
     }
 
 
-   // $(function (){
+    //$(function (){
       var pos = 0;
      //var measure_len = sequence.length('clap');
       var measure = 0;
@@ -311,5 +312,5 @@ function run(){
     
       },(1000 / (BPM / 60 * ticks)));
     
- //   })
+   //})
 }

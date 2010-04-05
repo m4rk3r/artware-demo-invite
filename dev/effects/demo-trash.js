@@ -8,11 +8,18 @@ function randorder(){
 return (Math.round(Math.random())-0.5); 
 }
 
-$(function (){
-    // while(!ready){
-    //     // waiting
-    // }
+// $(function (){
+//     function checkReady(){
+//     alert('checking')
+//     if(ready){
+//         run()
+//     }
+//     setTimeout(checkReady,1000);
+//     }
+// })
 
+function run(){
+    
     var tmppath = String(window.location).split('/')
     var path = tmppath.slice(0,tmppath.length -2).join('/')
     
@@ -192,4 +199,4 @@ $(function (){
 
     init();
 
-})
+}
