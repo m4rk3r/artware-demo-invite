@@ -8,11 +8,18 @@ function randorder(){
 return (Math.round(Math.random())-0.5); 
 }
 
-$(function (){
-    // while(!ready){
-    //     // waiting
-    // }
+// $(function (){
+//     function checkReady(){
+//     alert('checking')
+//     if(ready){
+//         run()
+//     }
+//     setTimeout(checkReady,1000);
+//     }
+// })
 
+
+$(function (){
     var tmppath = String(window.location).split('/')
     var path = tmppath.slice(0,tmppath.length -2).join('/')
     
@@ -20,13 +27,7 @@ $(function (){
       images: [
         path + '/lib/img/Explode-04-june.gif',
         path + '/lib/img/01_32_T_animado.gif',
-        //path + '/lib/img/1182_animado.gif',
-        //path + '/lib/img/1206_animado.gif',
-        //path + '/lib/img/1248_animado.gif',
-        //path + '/lib/img/a_fireworks.gif',
-        //path + '/lib/img/at_earth_clouds_lg_clr.thm.gif',
         path + '/lib/img/bc_cd1.gif',
-        //path + '/lib/img/diskT.gif',
         path + '/lib/img/MO_2_animado.gif',
         path + '/lib/img/s0401-media.gif',
         path + '/lib/img/transdisk_t_animado.gif'

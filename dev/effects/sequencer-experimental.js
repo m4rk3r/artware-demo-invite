@@ -5,6 +5,7 @@ var path = tmppath.slice(0,tmppath.length -2).join('/')+'/lib/sounds/'
 $(function (){
     var width = 1024;
     var height = 768;
+    var scroll_height = 150;
 
     resizeTo(width,height)
     var toolbar_height;
@@ -14,12 +15,10 @@ $(function (){
         toolbar_height = 0;
     }
     var centx = screen.width/2 - width/2; 
-    var centy = screen.height/2 - height/2;
-    moveTo(centx,centy);
+    var centy = screen.height/2 - height/2 - scroll_height/2;
+    moveTo(centx,centy);    
     
-    // quake
-    var duration = 1000;
-    var time = 0;
+
 })
 
 var sounds = {
@@ -67,231 +66,97 @@ for(i in sounds){
     var audioElement = document.createElement('audio');
     audioElement.setAttribute('src', path + sounds[i]);
     
-    audioElement.addEventListener("progress", function(e) { 
-        //console.log('# '+preloaded+' '+e.loaded+' of '+e.total)
-        if(e.loaded == e.total){
-            if (++preloaded == num_of_sounds) {
-            //console.log('LOADED')
-             ready = true;
-             run();
-            }else{
-              //console.log('loaded '+preloaded+' of '+num_of_sounds)
-            // console.log(e.loaded+' of '+e.total)
-            }
-        }
-     },false);
-     
+    // audioElement.addEventListener("progress", function(e) { 
+    //     //console.log('# '+preloaded+' '+e.loaded+' of '+e.total)
+    //     if(e.loaded == e.total){
+    //         if (++preloaded == num_of_sounds) {
+    //         //console.log('LOADED')
+    //          ready = true;
+    //          run();
+    //         }else{
+    //           //console.log('loaded '+preloaded+' of '+num_of_sounds)
+    //         // console.log(e.loaded+' of '+e.total)
+    //         }
+    //     }
+    //  },false);     
      audioElement.load();
      sounds[i] = audioElement;
 }
 
 
-/* 
-    need to add a touch of preloading to assure smooth sailing ;)
-*/
 
-function run(){
 
-    var BPM = 300;
-    var ticks = 1;
+var BPM = 300;
+var ticks = 1;
 
-    var sequence = {
-        tracker:[
-        // {
-        //      'measures': 4,
-        //      'beats': 8,
-        //      'insturments':{
-        //          'kick3': [1,0,1,0,1,0,1,0],
-        //          'blip2': [0,1,1,0,1,0,1,0],
-        //          'blip3': [0,1,0,1,1,0,1,0],
-        //          'blip8': [1,1,0,1,1,0,1,0],
-        //      }
-        //  },
-        //  {
-        //          'measures': 4,
-        //          'beats': 8,
-        //          'insturments':{
-        //              'kick3': [1,0,1,0,1,0,1,0],
-        //              'blip2': [0,1,1,0,1,0,1,0],
-        //              'blip6': [0,1,0,1,1,0,1,0],
-        //              'blip5': [1,1,0,1,1,0,1,0],
-        //          }
-        //      },
-        //      {
-        //          'measures': 4,
-        //          'beats': 8,
-        //          'insturments':{
-        //              'kick3': [1,0,1,0,1,0,1,0],
-        //              'blip9': [0,1,1,0,1,0,1,0],
-        //              'blip': [0,1,0,1,1,0,1,0],
-        //              'blip7': [1,1,0,1,1,0,1,0],
-        //          }
-        //      },
-        //  {
-        //      'measures': 4,
-        //      'beats': 8,
-        //      'insturments':{
-        //          'kick2': [1,0,1,0,1,0,1,0],
-        //          'blip9': [0,1,1,0,1,0,1,0],
-        //          'blip' : [0,1,0,1,1,0,1,0],
-        //          'blip3': [1,1,0,1,1,0,1,0],
-        //      }
-        //  },
-         {
-             'measures': 4,
-             'beats': 8,
-             'insturments':{
-                 'kick2': [1,0,1,0,1,0,1,0],
-                 'clap' : [0,1,1,0,1,0,1,0],
-                 'grate': [0,1,0,1,1,0,1,0],
-                 'blip3': [1,1,0,1,1,0,1,0],
-             }
-         },
-         {
-             'measures': 4,
-             'beats': 8,
-             'insturments':{
-                 'kick2': [1,0,1,0,1,0,1,0],
-                 'blip9': [0,1,1,0,1,0,1,0],
-                 'blip': [0,1,0,1,1,0,1,0],
-                 'blip3': [1,1,0,1,1,0,1,0],
-             }
-         },
-         {
-             'measures': 4,
-             'beats': 8,
-             'insturments':{
-                 'kick2': [1,0,1,0,1,0,1,0],
-                 'clap' : [0,1,1,0,1,0,1,0],
-                 'grate2': [0,1,0,1,1,0,1,0],
-                 'blip3': [1,1,0,1,1,0,1,0],
-             }
-         },
-        //  {
-        //      'measures': 4,
-        //      'beats': 8,
-        //      'insturments':{
-        //          'kick': [1,0,1,0,1,0,1,0],
-        //          'grate2' : [0,1,1,0,1,0,1,0],
-        //          'blip8': [1,1,0,1,1,0,1,0],
-        //      }
-        //  },
-        //  {
-        //      'measures': 4,
-        //      'beats': 8,
-        //      'insturments':{
-        //          'kick': [1,0,1,0,1,0,1,0],
-        //          'clap' : [0,1,1,0,1,0,1,0],
-        //          'clap':  [1,1,0,1,1,0,1,0],
-        //      }
-        //  },
-        // {
-        //     'measures': 4,
-        //     'beats': 8,
-        //     'insturments':{
-        //         'kick': [1,0,1,0,1,0,1,0],
-        //         'grate2': [0,1,1,0,1,0,1,0],
-        //         'blip8': [1,1,0,1,1,0,1,0],
-        //     }
-        // },
-        // {
-        //     'measures': 4,
-        //     'beats': 8,
-        //     'insturments':{
-        //         'kick': [1,0,1,0,1,0,1,0],
-        //         'blip6': [0,1,1,0,1,0,1,0],
-        //         'snare': [1,1,0,1,1,0,1,0],
-        //     }
-        // },
-        // {
-        //     'measures': 4,
-        //     'beats': 8,
-        //     'insturments':{
-        //         'kick': [1,0,1,0,1,0,1,0],
-        //         'blip3': [0,1,1,0,1,0,1,0],
-        //         'grate2': [1,1,0,1,1,0,1,0],
-        //     }
-        // },
-        // {
-        //     'measures': 10,
-        //     'beats': 4,
-        //     'insturments':{
-        //         'bass': [1,1,0,1],
-        //         'clap': [0,0,1,0],
-        //         'cymb': [1,0,1,0],
-        //         'klip': [0,0,1,0],
-        //         'chip': [1,0,0,0]
-        //     },
-        // },
-        // {
-        //     'measures': 10,
-        //     'beats': 4,
-        //     'insturments':{
-        //         'bass': [1,1,0,1],
-        //         'clap': [0,0,1,0],
-        //         'cymb': [1,0,1,0],
-        //         'grate2':[0,0,1,0],
-        //         'chip': [0,0,1,0],
-        //     },
-        // },
-        // {
-        //     'measures': 10,
-        //     'beats': 4,
-        //     'insturments':{
-        //         'bass': [1,1,0,1],
-        //         'clap': [0,0,1,0],
-        //         'cymb': [1,0,1,0],
-        //         'klip': [0,0,1,0],
-        //         'chip': [1,0,0,0]
-        //     },
-        // },
-        // {
-        //     'measures': 10,
-        //     'beats': 4,
-        //     'insturments':{
-        //         'bass': [1,1,0,1],
-        //         'clap': [0,0,1,0],
-        //         'cymb': [1,0,1,0],
-        //         'grate2':[0,0,1,0],
-        //         'chip': [0,0,1,0],
-        //     },
-        // }
-        ],
+var sequence = {
+    tracker:[
+     {
+         'measures': 4,
+         'beats': 8,
+         'insturments':{
+             'kick2': [1,0,1,0,1,0,1,0],
+             'clap' : [0,1,1,0,1,0,1,0],
+             'grate': [0,1,0,1,1,0,1,0],
+             'blip3': [1,1,0,1,1,0,1,0],
+         }
+     },
+     {
+         'measures': 4,
+         'beats': 8,
+         'insturments':{
+             'kick2': [1,0,1,0,1,0,1,0],
+             'blip9': [0,1,1,0,1,0,1,0],
+             'blip': [0,1,0,1,1,0,1,0],
+             'blip3': [1,1,0,1,1,0,1,0],
+         }
+     },
+     {
+         'measures': 4,
+         'beats': 8,
+         'insturments':{
+             'kick2': [1,0,1,0,1,0,1,0],
+             'clap' : [0,1,1,0,1,0,1,0],
+             'grate2': [0,1,0,1,1,0,1,0],
+             'blip3': [1,1,0,1,1,0,1,0],
+         }
+     },
+    ],
 
-        i : 0,
-        count : 1,
-        measures : function (){ return this.tracker[this.i].measures},
-        tick : function (){
-            if(this.count > this.measures()) this.advance();
-            this.count += 1;
-        },
-        advance : function (){
-            this.count = 1;
-            this.i = (this.i+1) % this.tracker.length;
-        },
-        current : function (insturment,pos){
-            return this.tracker[this.i].insturments[insturment][pos];
-        },
-        insturments : function (){
-            return this.tracker[this.i].insturments;
-        },
-        beats : function (){
-            return this.tracker[this.i].beats;
-        }
+    i : 0,
+    count : 1,
+    measures : function (){ return this.tracker[this.i].measures},
+    tick : function (){
+        if(this.count > this.measures()) this.advance();
+        this.count += 1;
+    },
+    advance : function (){
+        this.count = 1;
+        this.i = (this.i+1) % this.tracker.length;
+    },
+    current : function (insturment,pos){
+        return this.tracker[this.i].insturments[insturment][pos];
+    },
+    insturments : function (){
+        return this.tracker[this.i].insturments;
+    },
+    beats : function (){
+        return this.tracker[this.i].beats;
     }
+}
 
-    var volume = {
-        //'bass' : 1,
-        'clap' : 1,
-        //'cymb' : 0.4,
-        'blip' : 0.3,
-        //'klip' : 0.3,
-        'grate2' : 0.8,
-        'grate' : 0.8,
-    }
+var volume = {
+    //'bass' : 1,
+    'clap' : 1,
+    //'cymb' : 0.4,
+    'blip' : 0.3,
+    //'klip' : 0.3,
+    'grate2' : 0.8,
+    'grate' : 0.8,
+}
 
 
-   // $(function (){
+$(function (){
       var pos = 0;
      //var measure_len = sequence.length('clap');
       var measure = 0;
@@ -311,5 +176,4 @@ function run(){
     
       },(1000 / (BPM / 60 * ticks)));
     
- //   })
-}
+   })

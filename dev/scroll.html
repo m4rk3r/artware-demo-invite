@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en">
+<head>
+    <style type="text/css" media="screen">
+        html,body{ margin: 0px; overflow: hidden;}
+        marquee{ 
+                width: 100%;
+                font-size: 100px;
+                font-family: monaco;
+                position: absolute;
+                top: -20px;
+            }
+        #text2{
+            width: 100%;
+            font-size: 100px;
+            font-family: monaco;    
+            opacity: 0.55;
+            position: relative;
+            top: 10px;
+        }
+        #text{
+            width: 100%;
+            font-size: 100px;
+            font-family: monaco;
+            position: relative;
+            top: -130px;
+            left: -10px;
+        }
+    </style>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title></title>
+	<script type="text/javascript" charset="utf-8" src='../lib/jquery-1.4.2.min.js'></script>
+		<script type="text/javascript" charset="utf-8" src='../lib/jquery.marquee.js'></script>
+	<script type="text/javascript" charset="utf-8">
+	$('marquee').marquee();
+    
+	
+	var width = 1024;
+	var height = 768;
+    var scroll_height = 150;
+
+    resizeTo(width,scroll_height)
+    var toolbar_height;
+    if(window.outerHeight > window.innerHeight){
+        toolbar_height = window.outerHeight - window.innerHeight;
+    }else{
+        toolbar_height = 0;
+    }
+    var centx = screen.width/2 - width/2; 
+    var centy = screen.height/2 + height/2 -  scroll_height/2;
+    moveTo(centx,centy);
+    	   
+    	   
+    setInterval(function (){
+        $('body').css({'background-color':'rgb('+Math.round(Math.random()*255)+','+Math.round(Math.random()*255)+','+Math.round(Math.random()*255)+')'})
+        $('#text').css({'color':'rgb('+Math.round(Math.random()*255)+','+Math.round(Math.random()*255)+','+Math.round(Math.random()*255)+')'})
+    },80)
+	   
+	</script>
+</head>
+<body>
+    <marquee scrolldelay='1' scrollamount='30'>
+        <div id='text2'>
+            CRITICAL GLITCH ARTWARE CATEGORY OPEN at BLOCKPARTY and NOTACON 2010! The criticalartware crew invites you to participate in the CRITICAL GLITCH ARTWARE CATEGORY OPEN at BLOCKPARTY and NOTACON 2010! Hosting the ARTWARE CATEGORY at BLOCKPARTY and NOTACON 2010, we invite submissions of Critical Glitch Artware to be exhibited and experienced in the context of the largest running North American demoparty! The ARTWARE CATEGORY will feature experimental works of Noise && New Media Art; Realtime Audio-Video Performances; Art Mods and Art Games as well as a Glitch Art screening program curated by Nick Briz!
+        </div>
+        <div id='text'>
+            CRITICAL GLITCH ARTWARE CATEGORY OPEN at BLOCKPARTY and NOTACON 2010! The criticalartware crew invites you to participate in the CRITICAL GLITCH ARTWARE CATEGORY OPEN at BLOCKPARTY and NOTACON 2010! Hosting the ARTWARE CATEGORY at BLOCKPARTY and NOTACON 2010, we invite submissions of Critical Glitch Artware to be exhibited and experienced in the context of the largest running North American demoparty! The ARTWARE CATEGORY will feature experimental works of Noise && New Media Art; Realtime Audio-Video Performances; Art Mods and Art Games as well as a Glitch Art screening program curated by Nick Briz!
+        </div>
+        
+    </marquee>
+</body>
+</html>
